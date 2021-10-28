@@ -106,5 +106,8 @@ seo:
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
+  description: >-
+    Quiero ayudarte a llevar tu mensaje a las personas correctas con las redes
+    sociales.
 layout: advanced
 ---
