@@ -4,8 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: '¡Hola! Soy 
-    <Jotas tan, creador de contenido y marketer'
+    title: '¡Hola! Soy Jotas tan, creador de contenido y marketer'
     content: >
       Quiero ayudarte a llevar tu mensaje a las personas correctas con las redes
       sociales.
