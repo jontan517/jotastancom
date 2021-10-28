@@ -1,5 +1,5 @@
 ---
-title: Lineworks
+title: Lineworks - Marketing
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: /images/banner.jpg
