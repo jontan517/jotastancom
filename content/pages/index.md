@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Jotas tan | Creador de contenido y marketer
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
