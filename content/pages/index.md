@@ -74,7 +74,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Aprende sobre contenido y marketing
-    subtitle: An optional subtitle of the section
+    subtitle: Lo más reciente de mi blog
     posts_number: 3
     col_number: three
     actions:
