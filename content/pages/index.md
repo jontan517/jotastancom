@@ -9,7 +9,7 @@ sections:
       Quiero ayudarte a llevar tu mensaje a las personas correctas con las redes
       sociales.
     actions:
-      - label: Let's talk
+      - label: Leer más
         url: /about
         style: button
   - section_id: latest-projects
