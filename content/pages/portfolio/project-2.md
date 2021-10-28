@@ -1,5 +1,5 @@
 ---
-title: E-book
+title: 'E-book '
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/ebook.png
