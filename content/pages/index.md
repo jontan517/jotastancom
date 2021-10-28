@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: '¡Hola! Soy Jonathan Rocha, creador de contenido y marketer'
-    content: >
-      Quiero ayudar a tu marca o emprendimiento a tener una presencia en redes
-      efectiva.
+    content: >+
+      Quiero ayudarte a llevar tu mensaje a las personas correctas usado las
+      redes sociales.
+
     actions:
       - label: Let's talk
         url: /contact
