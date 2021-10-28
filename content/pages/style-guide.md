@@ -40,7 +40,7 @@ layout: page
 
 <Mark>
 Quisque sit amet est et sapien ullamcorper
-\</Mark>
+</Mark>
 
 pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
