@@ -36,7 +36,8 @@ layout: project
 ---
 Lineworks busca ayudar a emprendedores por medio de asesorías en las que dan estrategias para alcanzar a más y mejores clientes por medio de redes sociales y canales digitales.
 
-Community managerCreo contenido para la marca, redacto copies, mido resultados para mejorar y creo flujos de automatizaciones para una mejor atención al cliente.
+## Mi rol: Community manager
+
+Creo contenido para la marca, redacto copies, mido resultados para mejorar y creo flujos de automatizaciones para una mejor atención al cliente.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
-
