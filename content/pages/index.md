@@ -10,7 +10,7 @@ sections:
       sociales.
     actions:
       - label: Let's talk
-        url: /contact
+        url: /about
         style: button
   - section_id: latest-projects
     type: section_portfolio
