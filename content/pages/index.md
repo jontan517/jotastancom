@@ -91,7 +91,9 @@ seo:
       value: Jotas tan | Creador de contenido y marketer
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Quiero ayudarte a llevar tu mensaje a las personas correctas con las
+        redes sociales.
       keyName: property
     - name: 'og:image'
       value: /images/social.png
