@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Resalta de tu competencia con el contenido perfecto
+    title: '¡Hola! Soy Jonathan Rocha, creador de contenido y marketer'
     content: >
       Quiero ayudar a tu marca o emprendimiento a tener una presencia en redes
       efectiva.
