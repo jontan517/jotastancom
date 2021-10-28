@@ -1,6 +1,6 @@
 ---
 title: Lineworks - Marketing
-subtitle: Optional Project Subtitle
+subtitle: 'Proyecto personal:'
 date: '2019-05-10'
 thumb_image: /images/banner.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
