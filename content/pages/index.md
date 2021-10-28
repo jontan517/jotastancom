@@ -83,7 +83,6 @@ sections:
         style: button
 seo:
   title: Jotas tan | Creador de contenido y marketer
-  description: The preview of the Exto theme
   extra:
     - name: 'og:type'
       value: website
