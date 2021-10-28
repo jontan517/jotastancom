@@ -40,7 +40,6 @@
         "logo_img": "/images/logo-jonathan-781127e7.png"
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site ",
         "has_social": true,
         "social_links": [
             {
