@@ -104,7 +104,9 @@ seo:
     - name: 'twitter:title'
       value: Jotas tan | Creador de contenido y marketer
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Quiero ayudarte a llevar tu mensaje a las personas correctas con las
+        redes sociales.
     - name: 'twitter:image'
       value: /images/social.png
       relativeUrl: true
