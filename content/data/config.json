@@ -4,7 +4,6 @@
     "color_scheme": "light",
     "accent_color": "blue",
     "header": {
-        "title": "Jotastan",
         "has_nav": true,
         "nav_links": [
             {
