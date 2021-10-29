@@ -40,7 +40,7 @@ Bajo el lema "Queremos crecer contigo"
 
 ## Mi rol como Community manager
 
-<mark> Dentro de este proyecto yo:
+Dentro de este proyecto yo:
 
 *   Ideo y redacto los contenidos a publicar en redes sociales.
 
