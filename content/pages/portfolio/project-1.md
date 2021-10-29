@@ -36,9 +36,11 @@ layout: project
 ---
 Lineworks busca ayudar a emprendedores por medio de asesorías en las que dan estrategias para alcanzar a más y mejores clientes por medio de redes sociales y canales digitales.
 
+Bajo el lema "Queremos crecer contigo"
+
 ## Mi rol como Community manager
 
-Dentro de este proyecto yo:
+\<mark> Dentro de este proyecto yo: \</mark>
 
 *   Ideo y redacto los contenidos a publicar en redes sociales.
 
@@ -47,3 +49,5 @@ Dentro de este proyecto yo:
 *   Análisis y reporte de resultados.
 
 *   Flujos de automatización de mensajes.
+
+Mira el proyecto completo en [Instagram ](https://www.instagram.com/lineworks_ds/)
