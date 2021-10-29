@@ -82,7 +82,7 @@ sections:
     actions:
       - label: View Blog
         url: blog
-        style: icon
+        style: button
 seo:
   title: Jotas tan | Creador de contenido y marketer
   extra:
