@@ -84,12 +84,6 @@ sections:
         url: blog
         style: button
         new_window: false
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
 seo:
   title: Jotas tan | Creador de contenido y marketer
   extra:
