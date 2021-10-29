@@ -17,7 +17,7 @@ sections:
         style: button
   - section_id: portafolio
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Portafolio
     subtitle: Mis proyectos relacionados al contenido y marketing de redes sociales ;)
     projects_number: 6
