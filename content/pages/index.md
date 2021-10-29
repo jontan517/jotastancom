@@ -5,9 +5,16 @@ sections:
   - section_id: hero
     type: section_hero
     title: '¡Hola! Soy Jotas tan, creador de contenido y marketer'
-    content: >
+    content: >+
       Quiero ayudarte a llevar tu mensaje a las personas correctas con las redes
       sociales.
+
+
+      \<iframe width="640" height="360"
+      src="https://www.youtube.com/watch?v=jgCpmyPPXA8" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+      gyroscope; picture-in-picture" allowfullscreen>\</iframe>
+
     actions:
       - label: Leer más
         url: /about
