@@ -44,4 +44,6 @@ Dentro de este proyecto yo:
 
 *   Diseño publicaciones
 
-*
+*   Análisis y reporte de resultados
+
+*   Flujos de automatización de mensajes
