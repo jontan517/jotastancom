@@ -83,7 +83,7 @@ sections:
       - label: Ver Blog
         url: blog
         style: button
-        new_window: true
+        new_window: false
 seo:
   title: Jotas tan | Creador de contenido y marketer
   extra:
