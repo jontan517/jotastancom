@@ -15,7 +15,7 @@ sections:
       - label: Leer más
         url: /about
         style: button
-  - section_id: latest-projects
+  - section_id: proyectos
     type: section_portfolio
     layout_style: mosaic
     title: Portafolio
