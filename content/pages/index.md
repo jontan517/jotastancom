@@ -21,7 +21,7 @@ sections:
     title: Portafolio
     subtitle: Mis proyectos relacionados al contenido y marketing de redes sociales ;)
     projects_number: 6
-    view_all_label: View All
+    view_all_label: Ver todos
     view_all_url: portfolio
   - section_id: services
     type: section_grid
