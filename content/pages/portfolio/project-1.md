@@ -40,10 +40,10 @@ Lineworks busca ayudar a emprendedores por medio de asesorías en las que dan es
 
 Dentro de este proyecto yo:
 
-*   Ideo y redacto los contenidos a publicar en redes sociales
+*   Ideo y redacto los contenidos a publicar en redes sociales.
 
-*   Diseño publicaciones
+*   Diseño publicaciones.
 
-*   Análisis y reporte de resultados
+*   Análisis y reporte de resultados.
 
-*   Flujos de automatización de mensajes
+*   Flujos de automatización de mensajes.
