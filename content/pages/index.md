@@ -23,7 +23,7 @@ sections:
     projects_number: 6
     view_all_label: Ver todos
     view_all_url: portfolio
-  - section_id: services
+  - section_id: Habilidades
     type: section_grid
     title: Habilidades
     subtitle: An optional subtitle of the section
