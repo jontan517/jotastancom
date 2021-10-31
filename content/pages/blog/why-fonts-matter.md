@@ -1,7 +1,7 @@
 ---
 title: 3 acciones sencillas para enamorar a tus clientes.
 excerpt: >-
-  Vender puede ser complejo. e traigo 3 acciones para fidelizar a tus clientes y
+  Vender puede ser complejo. traigo 3 acciones para fidelizar a tus clientes y
   generar un excelente vínculo de usuario-marca.
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
