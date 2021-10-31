@@ -1,9 +1,10 @@
 ---
 title: 3 acciones sencillas para enamorar a tus clientes.
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  Vender puede ser complejo, pero lo que no es difícil es re-enamorar a esas
+  personas que ya confiaron en tu producto o servicio en algún momento.  Por eso
+  hoy te traigo 3 acciones para fidelizar a tus clientes y generar un excelente
+  vínculo de usuario-marca.
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
