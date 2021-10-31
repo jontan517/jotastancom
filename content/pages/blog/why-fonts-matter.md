@@ -49,7 +49,7 @@ Por eso hoy te traigo 3 acciones para fidelizar a tus clientes y generar un exce
 
 #### 1. Atención al cliente.
 
-> \*Después de tener una experiencia positiva con una empresa, el \*\*77% de los clientes se la recomendaría a un amigo \**y esa es apenas una de las razones por las cuales es importante brindar un excelente servicio al cliente.*
+> Después de tener una experiencia positiva con una empresa, el 77% de los clientes se la recomendaría a un amigo *y esa es apenas una de las razones por las cuales es importante brindar un excelente servicio al cliente.*
 
 Las cosas **más valoradas** en atención al cliente son:
 
