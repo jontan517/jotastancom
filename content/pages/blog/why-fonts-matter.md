@@ -1,6 +1,6 @@
 ---
 title: 3 acciones sencillas para enamorar a tus clientes.
-excerpt: Vender puede ser complejo
+excerpt: Vender puede ser complejo.
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
